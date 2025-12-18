@@ -1,0 +1,84 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(to bottom, #422102, #5A3209, #7C4D19, #5A3209, #422102);
+    color: white;
+    margin: 0;
+    text-align: center;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    height: 60px;
+}
+
+header {
+    background-color: #03001E;
+    
+}
+
+main {
+    margin-bottom: 30px;
+}
+
+nav {
+    background-color: #03001E;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+
+h1 {
+   font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.info {
+   
+}
+
+article {
+   
+}
+
+.article-but {
+    
+}
+
+footer {
+    background-color: #03001E;
+   margin-bottom: -50px;
+}
+
+footer a {
+    font-size: 40px;
+    color: white;
+    float: left;
+    
+}
+
+footer p {
+    font-size: 35px;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.films{
+   display: flex;
+   justify-content: space-around;
+}
+
+.characters{
+   display: flex;
+   justify-content:space-around;
+}
